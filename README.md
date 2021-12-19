@@ -494,10 +494,13 @@ CONTACTUS PAGE:
 
 ![output 1](./images/SSS1.png)
 
+### Products Page:
 ![output 2](./images/SSS2.png)
 
+### People Page:
 ![output 3](./images/SSS3.png)
 
+### Contact Us Page:
 ![output 4](./images/SSS4.png)
 
 
